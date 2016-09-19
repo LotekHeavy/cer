@@ -1,0 +1,5 @@
+name: Corresponding Entity References
+description: Syncs the entity references between entity types which have an entityreference to each other.
+core: 8.x
+package: Fields
+type: module

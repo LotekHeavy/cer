@@ -1,0 +1,3 @@
+administer cer settings:
+  title: 'Administer corresponding entity reference settings'
+  description: 'Allow user to create two-way referrences between entities'

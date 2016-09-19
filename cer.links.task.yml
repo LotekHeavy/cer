@@ -1,0 +1,9 @@
+cer.admin:
+  route_name: cer.admin
+  base_route: cer.admin
+  title: 'References'
+
+cer.update:
+  route_name: cer.update
+  base_route: cer.admin
+  title: 'Update existing references'

@@ -1,0 +1,4 @@
+cer.admin:
+  route_name: cer.admin
+  title: 'Corresponding entity references'
+  parent: system.admin_config_system

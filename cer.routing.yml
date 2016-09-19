@@ -1,0 +1,15 @@
+cer.admin:
+  path: '/admin/config/system/cer'
+  defaults:
+    _form: '\Drupal\cer\Form\CerSettingsForm'
+    _title: 'Corresponding entity references'
+  requirements:
+    _permission: 'administer cer settings'
+
+cer.update:
+  path: '/admin/config/system/cer/update'
+  defaults:
+    _form: '\Drupal\cer\Form\CerUpdateForm'
+    _title: 'Update existing entities'
+  requirements:
+    _permission: 'administer cer settings'
